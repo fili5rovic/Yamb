@@ -1,0 +1,1 @@
+<h1>This application represents Yamb game</h1>
