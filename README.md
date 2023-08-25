@@ -1,7 +1,7 @@
 # Console Yamb Game
 Console Yamb Game is a simple text-based implementation of the classic Yamb game. The game is played in the console, allowing players to roll dice and score points based on various combinations.
 
-> One goal I had in mind was to try out different random number generators ( Linear Congruential Generator, Blum Blum Shub, Lagged Fibonacci Generator...). I stuck with LCG, as I found it the most fitting for this particular problem.
+> One goal I had in mind was to try out different random number generators ( Linear Congruential Generator, Blum Blum Shub, Lagged Fibonacci Generator...). I inteded to use LCG, as I found it the most fitting for this particular problem.
 >
 > This project was developed as part of a university assignment. Please refer to the [instructions.pdf](instructions.pdf) file for detailed assignment instructions.
 
