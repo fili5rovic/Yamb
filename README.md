@@ -3,7 +3,7 @@ Console Yamb Game is a simple text-based implementation of the classic Yamb game
 
 > One goal I had in mind was to try out different random number generators ( Linear Congruential Generator, Blum Blum Shub, Lagged Fibonacci Generator...). I inteded to use LCG, as I found it the most fitting for this particular problem.
 >
-> This project was developed as an university assignment in University of Belgrade School of Electrical Engineering, majoring Software Engineering. Please refer to the [instructions.pdf](instructions.pdf) file for detailed assignment instructions.
+> This project was developed as the first university assignment for "Algorithms and Data Structures", University of Belgrade School of Electrical Engineering majoring Software Engineering. Please refer to the [instructions.pdf](instructions.pdf) file for detailed assignment instructions.
 
 ## Features
 
